@@ -76,8 +76,8 @@ This project serves as a practical learning tool for:
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/visual-compiler-phases.git
-   cd visual-compiler-phases
+   git clone https://github.com/muzammil67552/Visual-Phases-of-compilor-CCP_CC.git
+   cd compiler_gui.py
    ```
 
 2. **Run the application**
